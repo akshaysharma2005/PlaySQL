@@ -4,9 +4,23 @@
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL_3D-000000?logo=three.js&logoColor=white)](https://threejs.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-059669.svg)](LICENSE)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/akshaysharma2005/PlaySQL)
 [![Author](https://img.shields.io/badge/Author-M_Akshay_Sharma-0f172a)](https://github.com/akshaysharma2005)
 
 **PlaySQL** is an in-browser, 3D gamified SQL coding challenge platform designed for data analysts, software engineers, and database practitioners. Powered by an in-memory **SQLite WebAssembly engine** and a real-time **Three.js WebGL spatial data prism**, PlaySQL transforms traditional technical assessments into a stress-free, engaging coding arena.
+
+---
+
+## ⚡ 1-Click Vercel Deployment
+
+Deploy your own live copy of PlaySQL to Vercel in seconds:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/akshaysharma2005/PlaySQL)
+
+- **Framework Preset**: Other (Static Site)
+- **Root Directory**: `./`
+- **Build Command**: None (or leave blank)
+- **Output Directory**: `./` (or leave blank)
 
 ---
 
